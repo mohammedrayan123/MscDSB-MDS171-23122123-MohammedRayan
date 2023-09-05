@@ -1,0 +1,19 @@
+Item Name	: 	apple
+Price	: 50
+Quantity	: 	2
+Total Amount	: 	100
+Name of the customer	: 	harish
+Phone number	: 	9876543210
+Item Name	: 	kiwi
+Price	: 30
+Quantity	: 	3
+Total Amount	: 	60
+Name of the customer	: 	ansel
+Phone number	: 	
+9876543210
+Item Name	: 	tomato
+Price	: 50
+Quantity	: 	4
+Total Amount	: 	200
+Name of the customer	: 	harini
+Phone number	: 	098754321
