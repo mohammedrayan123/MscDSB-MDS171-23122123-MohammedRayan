@@ -1,0 +1,4 @@
+Item Name; Quantity; Price per item;Total Bill Amount
+apple;3;130;390
+banana;5;40;200
+kiwi;7;50;350
