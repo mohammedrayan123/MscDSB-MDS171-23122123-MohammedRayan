@@ -1,0 +1,2 @@
+Item,Qty,Price,Amount 
+('Blue', 10, 90)('Blue', 4, 50)('Pink', 1, 80)('Cream', 9, 70)('Black', 3, 70)('Lavender', 6, 20)('Cream', 8, 20)('Cyan', 4, 40)('Black', 7, 100)('Cream', 7, 85)
